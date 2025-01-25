@@ -28,8 +28,10 @@ This program discovers subdomains of a given domain using powerful enumeration t
    cd subdomains_finder
 
 2. **Install dependencies**:
-  ```bash
-  pip3 install -r requirements.txt
-  python3 app.py
+   ```bash
+    pip3 install -r requirements.txt
+
+3. **Run the application**:
+python3 app.py
 
 
