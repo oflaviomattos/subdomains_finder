@@ -35,4 +35,28 @@ This program discovers subdomains of a given domain using powerful enumeration t
    ```bash
    python3 app.py
 
+## Technologies Used
 
+- **Python**: Powered by the Flask framework to create a lightweight and scalable web application.
+- **Amass**: Utilized for powerful subdomain enumeration and discovery.
+- **Bootstrap**: Ensures a modern, responsive, and user-friendly design.
+- **HTML/CSS/JavaScript**: Provides the structure, styling, and interactivity for the web interface.
+
+---
+
+## Contribution
+
+Contributions are welcome! 🎉  
+If you'd like to contribute:
+1. Fork this repository.
+2. Create a new branch with your feature or fix:
+   ```bash
+   git checkout -b feature/your-feature-name
+
+
+---
+
+### Author
+
+Developed by [**Flavio Mattos**](https://github.com/oflaviomattos).  
+Feel free to connect with me on GitHub to explore more of my work!
