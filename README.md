@@ -10,13 +10,13 @@ This program discovers subdomains of a given domain using powerful enumeration t
 ## Screenshots
 
 ### Main Page
-![Main Page](assets/main_page.png)
+![Main Page](assets/main_page.jpg)
 
 ### Loading Spinner
-![Loading Spinner](assets/loading_spinner.png)
+![Loading Spinner](assets/loading_spinner.jpg)
 
 ### Results Page
-![Results Page](assets/results_page.png)
+![Results Page](assets/results_page.jpg)
 
 ---
 
